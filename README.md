@@ -28,3 +28,21 @@ Struktur Kode :
 •	lessons.py: Konten materi pembelajaran Python.
 
 •	utils.py: Fungsi pembantu untuk UI (warna, pembersihan layar).
+
+Fitur Utama Program:
+
+Belajar Dasar Python: Materi interaktif mengenai variabel, tipe data, struktur kontrol, dan perulangan, lengkap dengan kuis singkat untuk menguji pemahaman.
+
+Typing Master: Latihan mengetik menggunakan potongan kode Python yang nyata. Program akan menghitung kecepatan (WPM) dan akurasi Anda secara otomatis.
+
+Antarmuka Elegan: Menggunakan pewarnaan ANSI untuk memudahkan pembacaan dan memberikan pengalaman pengguna yang profesional di terminal.
+
+Cara Menjalankan Program:
+
+Pastikan Anda memiliki Python terinstal di komputer Anda.
+
+Simpan keempat file yang saya lampirkan (main.py, lessons.py, typing_engine.py, dan utils.py) dalam satu folder yang sama.
+
+Buka terminal atau command prompt, masuk ke folder tersebut, dan jalankan perintah
+
+python main.py
