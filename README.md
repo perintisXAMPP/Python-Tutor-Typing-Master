@@ -40,5 +40,5 @@ Pastikan Anda memiliki Python terinstal di komputer Anda.
 
 Simpan keempat file yang saya lampirkan (main.py, lessons.py, typing_engine.py, dan utils.py) dalam satu folder yang sama.
 
-Buka terminal atau command prompt, masuk ke folder tersebut, dan jalankan perintah
-_python main.py _
+Buka terminal atau command prompt, masuk ke folder tersebut, dan jalankan perintah__
+python main.py
